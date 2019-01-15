@@ -10,7 +10,7 @@
 - 論文を書く
 
 ## デモアプリ
-### デモアプリのソースコードは別リポジトリ
+### ソースコードは別リポジトリ
 [https://github.com/aitusa/App_FlipByBlink](https://github.com/aitusa/App_FlipByBlink)
 
 ### Appstoreでデモアプリ公開中
