@@ -29,7 +29,12 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 -------
 [中間予稿のPDF](中間予稿.pdf)
 
-何か指摘、感想、アドバイス
+何か指摘、感想、アドバイスあれば
 ----------------------
 本ドキュメントのgithubのissuesにどうぞ。  
 [https://github.com/aitusa/document_thesis_BlinkByBlink/issues](https://github.com/aitusa/document_thesis_BlinkByBlink/issues)
+
+その他
+-----
+このREADME.mdをGitHub Pagesで表示するURL
+https://aitusa.github.io/document_BlinkByBlink/
