@@ -1,6 +1,6 @@
 電子書籍まばたきUI_研究資料まとめ
 ============================
-資料はここに全てまとめる。
+資料はここに全てまとめる。  
 卒論のweb版的な感じで。
 
 ![イメージ図](flow.png)
@@ -9,15 +9,13 @@
 --------
 ☑︎ デモアプリの作成  
 ☑︎ デモアプリをAppstoreで公開  
+☐ 実験概要作成  
 ☐ デモアプリを用いて実験  
 ☐ 論文執筆  
-☐ 卒研最終発表スライド作成  
+☐ 卒研最終発表スライド作成
+☐ 190213 予稿PDF提出
 ☐ 190220 卒研最終発表  
 ☐ 190221 卒論PDF提出  
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
 
 デモアプリ
 --------
