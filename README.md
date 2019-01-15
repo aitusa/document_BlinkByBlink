@@ -14,6 +14,10 @@
 ☐ 卒研最終発表スライド作成  
 ☐ 190220 卒研最終発表  
 ☐ 190221 卒論PDF提出  
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 デモアプリ
 --------
