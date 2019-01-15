@@ -9,7 +9,6 @@
 --------
 ☑︎ デモアプリの作成  
 ☑︎ デモアプリをAppstoreで公開  
-☐ この資料リポジトリに載せるべきものを全て載せる  
 ☐ デモアプリを用いて実験  
 ☐ 論文執筆  
 ☐ 卒研最終発表スライド作成  
@@ -18,12 +17,10 @@
 
 デモアプリ
 --------
-ソースコードは別リポジトリ
-[https://github.com/aitusa/App_FlipByBlink](https://github.com/aitusa/App_FlipByBlink)
-
-Appstoreでデモアプリ公開中
-[https://itunes.apple.com/jp/app/flipbyblink-まばたき読書/id1444571751?mt=8](https://itunes.apple.com/jp/app/flipbyblink-まばたき読書/id1444571751?mt=8)
-
+ソースコードは別リポジトリ  
+[https://github.com/aitusa/App_FlipByBlink](https://github.com/aitusa/App_FlipByBlink)  
+Appstoreでデモアプリ公開中  
+[https://itunes.apple.com/jp/app/flipbyblink-まばたき読書/id1444571751?mt=8](https://itunes.apple.com/jp/app/flipbyblink-まばたき読書/id1444571751?mt=8)  
 FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)など。
 
 中間予稿
@@ -32,6 +29,5 @@ FaceID搭載のiOS端末でのみ動作します。iPhone XやiPad pro(2018)な�
 
 何か指摘、感想、アドバイス
 ----------------------
-本ドキュメントのgithubのissuesにどうぞ。
-
+本ドキュメントのgithubのissuesにどうぞ。  
 [https://github.com/aitusa/document_thesis_BlinkByBlink/issues](https://github.com/aitusa/document_thesis_BlinkByBlink/issues)
